@@ -52,11 +52,11 @@ if (true) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Lên Locket Gold rồi đó 😎",
+            title: "Lên Locket Gold rồi đó hahaha😎",
             feature_set: [
                 {
-                    title: "Lên Gold rồi đấy ✨",
-                    body: "Bạn đã là Locket Gold! 💛",
+                    title: "Lên Gold rồi đấy haha ✨",
+                    body: "Bạn đã là Locket Gold! hahaha 💛",
                     imageURL: "https://files.catbox.moe/ycaiig.jpg"
                 }
             ],
